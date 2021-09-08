@@ -10,7 +10,8 @@ Detailed Analysis of "Multiscale approach predictions for biological outcomes in
   * Ng is the genome size 
   * Se is the stopping potential 
   * d is the dose
-* Finally, a parameter χ , is introduced which is the probability of successful repair of a lesion. The probability of cell survival is certainly not purely exponential and there is a deviation up to certain quantity of dose up to which cell repair is possible, after which the relation follows a purely exponential behavior(Check the refference).
+* Finally, a parameter χ , is introduced which is the probability of successful repair of a lesion. The probability of cell survival is certainly not purely exponential and there is a deviation up to certain quantity of dose up to which cell repair is possible, after which the relation follows a purely exponential behavior(Check the reference).
+![alt text](https://github.com/KAVAN-DESAI/Probability-and-stochastic-process/blob/main/Images/Main%20Code/Actual%20Probabilty%20of%20Cell%20Survival.png)
 ## Eloboration of Code with respect to Probability and Stochastic Process: 
 * We showed the decreasing exponential nature of cell survival and also derived the increasing exponential damage that is done as we increase the dose. The cell Survival and Cell Damage are both plotted against dose and both Yield desired Exponential Results as dose is directly proportional to Yield.
 * We were given one method to calculate the Survival Curve. We enhanced the Method to derive results for All the 6 Cell Lines that were described in the Paper We Moreover derived the Values of Yield and then iterated to tweak the method and derive more accurate and informative results. We also used other methods to derive parameters that were directly provided to us hence making the code more comprehensive.
