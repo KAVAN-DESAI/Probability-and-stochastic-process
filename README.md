@@ -1,5 +1,5 @@
 # Probability-and-stochastic-process(MSA model)
-Detailed Analysis of "Multiscale approach predictions for biological outcomes in ion-beam cancer therapy" int context to Probability and stochastic process.
+Detailed Analysis of "Multiscale approach predictions for biological outcomes in ion-beam cancer therapy" in context to Probability and stochastic process.
 # Reference
  [Multiscale approach predictions for biological outcomes in ion-beam cancer therapy](https://www.nature.com/articles/srep27654)
 
